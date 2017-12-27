@@ -7,5 +7,5 @@ handlers:
 
 # [START env_variables]
 env_variables:
-  BUCKET_NAME: YOUR-BUCKET-NAME
+  BUCKET_NAME: your-bucket-name
 # [END env_variables]
