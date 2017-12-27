@@ -7,5 +7,5 @@ handlers:
 
 # [START env_variables]
 env_variables:
-  BUCKET_NAME: YOUR-BUCKET-NAME
+  BUCKET_NAME: ws-rs-bucket-poc
 # [END env_variables]
